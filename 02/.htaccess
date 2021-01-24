@@ -1,0 +1,2 @@
+# redirect 404; second parameter start as root
+ErrorDocument 404 /htaccess/02/404.php
