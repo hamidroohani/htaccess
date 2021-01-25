@@ -1,0 +1,2 @@
+# change index page, when first file does not found next file will be choose
+DirectoryIndex 404.php products.php
